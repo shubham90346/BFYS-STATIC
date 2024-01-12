@@ -1,0 +1,73 @@
+{
+    "skincare": [
+        {
+            "name": "SKINCARE",
+            "path": "",
+            "data": [
+                "RMS BEAUTY",
+                "REVIVE",
+                "BOBBI BROWN",
+                "BY TERRY",
+                "ESTEE LAUDER"
+            ]
+        }
+    ],
+    "haircare": [
+        {
+            "name": "HAIRCARE",
+            "path": "",
+            "data": "BUMBLE AND BUMBLE"
+        }
+    ],
+    "fragrance": [
+        {
+            "name": "FRAGRANCE",
+            "path": "",
+            "data": [
+                "AERIN",
+                "ARAMIS",
+                "BY TERRY",
+                "BYREDO",
+                "DIPTYQUE",
+                "MAISON MARGIELA",
+                "VICTORIA BECKHAM BEAUTY"
+            ]
+        }
+    ],
+    "makeup": [
+        {
+            "name": "MAKEUP",
+            "path": "",
+            "data": [
+                "BOBBI BROWN",
+                "BY TERRY",
+                "ESTEE LAUDER",
+                "KEVYN AUCOIN COSMETICS",
+                "RMS BEAUTY",
+                "SMASHBOX"
+            ]
+        }
+    ],
+    "body": [
+        {
+            "name": "BODY",
+            "path": "",
+            "data": [
+                "BYREDO",
+                "DIPTYQUE",
+                "MAISON MARGIELA"
+            ]
+        }
+    ],
+    "home": [
+        {
+            "name": "HOME",
+            "path": "",
+            "data": [
+                "BYREDO",
+                "DIPTYQUE",
+                "MAISON MARGIELA"
+            ] 
+        }
+    ]
+}
